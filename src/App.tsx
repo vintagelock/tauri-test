@@ -82,7 +82,7 @@ function App() {
           <Burger opened={desktopOpened} onClick={toggleDesktop} hiddenFrom="sm" size="sm" />
           <div className="p-1 flex items-center justify-center">
             <img src={MyHead} width={42} height={42} />
-            <div className="ml-2 text-2xl font-bold text-white font-autowide">ERDPOC</div>
+            <div className="ml-2 text-2xl font-bold text-white font-autowide">A TEST THINGY</div>
           </div>
         </Group>
       </AppShell.Header>
